@@ -105,7 +105,7 @@ const writeHTML = () => {
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 </head>
 <body>
-    <nav class="navbar sticky-top navbar-light justify-content-center" style="background-color: #e3f2fd;">
+    <nav class="navbar sticky-top navbar-light justify-content-center" style="background-color: coral;">
         <h1 class="navbar-text text-body">Our Team</h1>
     </nav>
     <div class="container d-flex flex-wrap p-4">
@@ -127,7 +127,7 @@ const writeCards = () =>{
         html +=
          `
         <div class="card m-4 shadow-lg" style="width: 18rem;">
-            <div class="card-header bg-success">
+            <div class="card-header bg-warning">
                 ${name}
                 ${role}
             </div>
