@@ -18,12 +18,13 @@ After cloning the code to your local machine, run:
 1. npm i
 2. npm run test 
 
-The has four tests. One for employee, engineer, intern and manager.
+The application has four tests - employee, engineer, intern and manager.
 
 ## Usage  
 To use the application, clone the code to your local machine. Then run:
 1. npm i
 2. node index or node index.js
+
 These steps will let you use the application to build a html site similar to the one below.
 ![Profile Generator](/assets/screenshot.png)
 
