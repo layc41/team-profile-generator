@@ -28,6 +28,9 @@ To use the application, clone the code to your local machine. Then run:
 These steps will let you use the application to build a html site similar to the one below.
 ![Profile Generator](/assets/screenshot.png)
 
+## Video
+[Video: https://drive.google.com/file/d/1ARbZ9F0GNXfx5LMQe5ckammrKas9EJHi/view] (https://drive.google.com/file/d/1ARbZ9F0GNXfx5LMQe5ckammrKas9EJHi/view)
+
 ## Licensing  
 None  
 
